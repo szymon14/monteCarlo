@@ -1,4 +1,4 @@
-# monteCarlo
+# MonteCarlo
 Zadanie na laboratoria z monte carlo
 Wykonać zadanie proszę w pliku/klasie SolveMe( w oznaczonym miejscu #TODO), w innych klasach nie dokonuj zmian!
 
@@ -20,6 +20,8 @@ Zadanie 2
 
 Napisz algorytm na przeliczenie wartości całki dla xE(0,2) metodą Monte Carlo.
 Link do całki: https://www.wolframalpha.com/input/?i=integral+from+0+to+2+%28x%5E2%29
+
+
 Podpowiedź:
 
 ![step3](https://www.scratchapixel.com/images/upload/monte-carlo-methods-practice/MCIntegration03.png?)
