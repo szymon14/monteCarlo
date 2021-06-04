@@ -14,5 +14,7 @@ Zadanie 2
 Napisz algorytm na przeliczenie wartości całki dla xE(0,2) metodą Monte Carlo.
 Link do całki: https://www.wolframalpha.com/input/?i=integral+from+0+to+2+%28x%5E2%29
 Podpowiedź:
+
 ![step3](https://www.scratchapixel.com/images/upload/monte-carlo-methods-practice/MCIntegration03.png?)
+
 ![step4](https://latex.codecogs.com/gif.latex?\langle&space;F^N\rangle&space;=&space;(b-a)&space;\dfrac{1}{N&space;}&space;\sum_{i=0}^{N-1}&space;f(X_i).)
